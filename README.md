@@ -1,2 +1,2 @@
-# Base-de-Datos
+# Base-de-Dato
 Prueba practica
